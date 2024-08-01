@@ -55,7 +55,7 @@
     <a href="https://www.hackerrank.com/profile/divanjanad"><img src="https://img.icons8.com/windows/24/000000/hackerrank.png" alt="HackerRank"/> HackerRank</a>
   </li>
   <li>
-    <a href="https://www.instagram.com/dinethra?igsh=MXY4OHQ4Mno1a3Fj&utm_source=qr"><img src="https://img.icons8.com/fluent/24/000000/instagram-new.png" alt="Instagram"/> Instagram</a>
+    <a href=" "><img src="https://img.icons8.com/fluent/24/000000/instagram-new.png" alt="Instagram"/> Instagram</a>
   </li>
   <li>
     <a href="https://wokwi.com/makers/dinethra_divanjana"><img src="https://img.icons8.com/color/24/000000/wokwi.png" alt="Wokwi"/> Wokwi</a>
