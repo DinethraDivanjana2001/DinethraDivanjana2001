@@ -3,7 +3,8 @@
 
 <!-- Profile Views -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=DinethraDivanjana2001&label=Profile%20views&color=0e75b6&style=flat" alt="DinethraDivanjana2001" />
+
 </p>
 
 <!-- Introduction -->
