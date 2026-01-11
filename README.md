@@ -88,22 +88,13 @@ class DinethraDivanjana:
 ### 🌐 Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwindcss,bootstrap" alt="Web"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi" alt="Web"/>
 </p>
 
 ### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Databases"/>
 </p>
 
 ### 🔧 DevOps & Tools
@@ -170,10 +161,6 @@ DevOps: Docker, Docker Compose
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinethraDivanjana2001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 
 </div>
-
----
-
-
 
 ---
 
